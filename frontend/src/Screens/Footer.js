@@ -7,7 +7,6 @@ function Footer() {
       <div>
         <FaLinkedin className="fs-3 mx-2" />
         <FaGithub className="fs-3 mx-2" />
-        <FaInstagramSquare className="fs-3 mx-2" />
       </div>
       <div>
         <span className="text-secondary " style={{fontSize:"15px"}}>
