@@ -11,16 +11,16 @@ function Navbar() {
           </Link>
         </span>
 
-        <div className="col-5 d-flex justify-content-between text-secondary">
+        <div className="col-6   d-flex justify-content-between text-secondary">
           <div>
-            <p className="mb-0">
+            <p className="">
               <Link to="/posts" className="text-secondary text-decoration-none">
                 Posts
               </Link>
             </p>
           </div>
           <div>
-            <p className="mb-0">
+            <p className="mx-2">
               <Link
                 to="/projects"
                 className="text-secondary text-decoration-none"
@@ -30,7 +30,7 @@ function Navbar() {
             </p>
           </div>
           <div>
-            <p className="mb-0">
+            <p className="">
               <Link
                 to="/contact"
                 className="text-secondary text-decoration-none"
